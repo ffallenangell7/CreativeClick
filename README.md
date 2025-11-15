@@ -2,8 +2,6 @@
 
 A beautiful, interactive website where each click or spacebar press generates a smooth color transition with visual effects.
 
-![Website Preview](https://via.placeholder.com/800x450/3498db/ffffff?text=Click+and+Create)
-
 ## ✨ Features
 
 - **Dual Interaction Methods**: Change colors by clicking anywhere or pressing the spacebar
@@ -20,4 +18,5 @@ A beautiful, interactive website where each click or spacebar press generates a 
 1. Clone the repository:
 ```bash
 
-git clone https://github.com/your-username/colorful-click-creation.git
+git clone https://github.com/ffallenangell7/CreativeClick.git
+
